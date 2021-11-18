@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MatheusMMoreno
 - 👀 I’m interested in statistics, Microsoft products, Python, CSharp, Anaconda, Machine Learning & Deep Learning and Azure
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning ML on Azure and focusing in achieving Microsoft Certifications (DP-203, AI-102 and DP-100)
 - 📫 matheus_mm_6@hotmail.com
