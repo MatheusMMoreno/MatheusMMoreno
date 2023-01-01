@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MatheusMMoreno
-- 👀 I’m interested in statistics, Microsoft & AWS products, Python and CSharp.
-- 🌱 I’m currently learning more about business  and healthcare along with getting my AWS certifications.
+- 👀 I’m interested in Spark, Healthcare market, Airflow, Microsoft & AWS products, Python and CSharp.
+- 🌱 I’m currently learning more about business and healthcare, Spark, Databrick and pursuing my AWS certifications.
 - 📫 matheus_mm_6@hotmail.com
